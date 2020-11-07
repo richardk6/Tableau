@@ -1,6 +1,5 @@
 Tableau Homework - Citi Bike Analytics
 
-Before You Begin
 
 
 Your Tableau workbook will be saved to your Tableau Public account rather than to GitHub.
